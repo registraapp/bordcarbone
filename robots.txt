@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bordcarbone.com/sitemap.xml
